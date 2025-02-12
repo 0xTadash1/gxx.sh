@@ -36,3 +36,7 @@ For example, when running `gxx`, if a command named `gc` already exists, the ali
 If set to `true`, skipped aliases and their reasons will be printed as shell comments when `GXX_NO_OVERRIDE` is `true`.
 
 This is useful for reviewing before `eval`. This setting has no effect if `GXX_NO_OVERRIDE` is disabled.
+
+## License
+
+[MIT](./LICENSE)
